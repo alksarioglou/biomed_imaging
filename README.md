@@ -1,8 +1,8 @@
 # Biomedical Imaging Simulations
-Simulating biomedical imaging modalities (X-Ray, Positron Emission Tomography, Magnetic Resonance Imaging, Ultrasound Imaging) using MATLAB.
+Simulating biomedical imaging modalities (X-Ray, Positron Emission Tomography, Magnetic Resonance Imaging, Ultrasound Imaging) using **MATLAB**.
 
 ## Week 2
-- Using MATLAB to calculate 2D plane waves (planewaves.mlx). The function takes as input the values of constants kx and ky and returns the 2D plane wave f(x,y).
+- Using **MATLAB** to calculate 2D plane waves (planewaves.mlx). The function takes as input the values of constants kx and ky and returns the 2D plane wave f(x,y).
 - Another function (comb_function.mlx) is created which enables the user to create a comb function in discrete-time by specifying the number of impulses and the spacing Δx between them.
 
 ## Week 4
